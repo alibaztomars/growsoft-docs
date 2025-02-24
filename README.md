@@ -1,7 +1,6 @@
 # growsoft-docs
 Since there is no official docs for Growsoft's lua scriptig, i tried to make it with AI. Don't trust this docs %100 it was made by AI. If you find anymistakes you can report me.
 
-```markdown
 # GrowSoft Scripting API Documentation
 
 **Introduction**
@@ -582,4 +581,3 @@ end)
 * **Modularity:** Break down large scripts into smaller, more manageable modules. This makes your code easier to understand, test, and reuse.
 
 This documentation covers the key elements revealed in the provided code snippets. It provides a solid foundation for getting started with GrowSoft scripting. Remember to experiment, test thoroughly, and refer back to this documentation as you develop your own scripts. Good luck!
-```
