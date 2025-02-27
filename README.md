@@ -272,6 +272,8 @@ These are the functions you define to respond to game events. You *must* use the
 *   `player:addMod(modID, duration)`: Adds a mod to the player.
     *   `modID`: The ID of the mod.
     *   `duration`: The duration of the mod in seconds (0 for permanent).
+*   `player:removeMod(modID)`: Removes a mod from the player.
+    *   `modID`: The ID of the mod.
 *   `player:getMod(modID)`: Returns a [`mod`](#mod-object) object representing the player's mod, or `nil` if the player doesn't have that mod.
 *   `player:getMods()`: Returns a table of [`mod`](#mod-object) objects representing all of the player's active mods.
 *   `player:onConsoleMessage(message)`: Sends a console message to the player.
